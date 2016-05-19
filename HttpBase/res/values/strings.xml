@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">网络请求base</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="soap">soap</string>
+    <string name="nohttp">nohttp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
